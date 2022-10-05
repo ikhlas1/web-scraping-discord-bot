@@ -1,0 +1,10 @@
+# dependecies local deployment: 
+install python3-pip
+pip3 install discord.py
+python 3.5 and above
+pip install python-dotenv
+pip install requests
+pip install beautifulsoup4
+
+pip install -U discord==1.7.3 pip install -U discord.py==1.7.3
+pip install -U discord==2.0.0 pip install -U discord.py==2.0.0
